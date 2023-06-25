@@ -12,6 +12,27 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adas0mahdi&label=Profile%20views&color=0e75b6&style=flat" alt="adas0mahdi" /> </p>
 <p align="center"> <a href="https://twitter.com/mho_y" target="blank"><img src="https://img.shields.io/twitter/follow/mho_y?logo=twitter&style=for-the-badge" alt="mho_y" /></a> </p>
 
+
+
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+
+
+
+
+
 - 🔭 I’m currently working on **PHP, SQL**
 
 - 🌱 I’m currently learning **React Native, PHP, Python**
