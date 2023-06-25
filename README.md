@@ -1,4 +1,6 @@
-![Header]( https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx )
+![Header]( https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx 
+
+https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 <h1 align="center">Hi 👋, I'm Adas mahdi</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 </br>
