@@ -10,7 +10,7 @@
 </br>
 </br>
 ---
-<\hr>
+<hr>
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adas0mahdi&label=Profile%20views&color=0e75b6&style=flat" alt="adas0mahdi" /> </p>
 <p align="center"> <a href="https://twitter.com/mho_y" target="blank"><img src="https://img.shields.io/twitter/follow/mho_y?logo=twitter&style=for-the-badge" alt="mho_y" /></a> </p>
