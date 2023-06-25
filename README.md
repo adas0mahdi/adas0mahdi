@@ -1,4 +1,4 @@
-![Header](https://media.giphy.com/stickers/-nofluffjobs-science-circle-geometry-OTIYVVlHZd2OkmcjQR/giphy.gif)
+![Header](  https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx )
 <h1 align="center">Hi 👋, I'm Adas mahdi</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 </br>
