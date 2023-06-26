@@ -1,4 +1,6 @@
-![Header](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)
+<div align="center">
+  <img style="border-radius: 25px;" alt="Coding" width="400" src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Adas mahdi</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 </br>
