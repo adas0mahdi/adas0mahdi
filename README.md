@@ -5,7 +5,10 @@
 </br>
 </br>
 </br>
-<img style="border-radius: 25px;" align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif">
+<div align="center">
+  <img style="border-radius: 25px;" alt="Coding" width="400" src="https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif">
+</div>
+
 -
 
 <hr>
