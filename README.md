@@ -1,3 +1,7 @@
+<div align="center">
+  <img style="border-radius: 25px;" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</div>
+
 ![Header](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 <h1 align="center">Hi 👋, I'm Adas mahdi</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
