@@ -35,14 +35,21 @@
 - ⚡ Fun fact **I don't know how to code!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mho_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mho_y" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdi-adas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-adas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22055936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22055936" height="30" width="40" /></a>
-<a href="https://fb.com/adas.mahdi.atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adas.mahdi.atef" height="30" width="40" /></a>
-<a href="https://instagram.com/adas0mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adas0mahdi" height="30" width="40" /></a>
-<a href="https://discord.gg/adas#5987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adas#5987" height="30" width="40" /></a>
-</p>
+###
+<div align="left">
+<a href="https://linkedin.com/in/mahdi-adas" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a href="https://twitter.com/mho_y" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+</a>
+<a href="https://wa.me/639953532613" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+</a>
+<a href="https://fb.com/adas.mahdi.atef" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+</a>
+</div>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <div align="center">
@@ -50,26 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adas0mahdi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-
-<a href="https://linkedin.com/in/mahdi-adas" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-<a href="https://twitter.com/mho_y" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-</a>
-<a href="https://wa.me/yourwhatsappnumber" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-</a>
-<a href="https://fb.com/adas.mahdi.atef" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-</a>
-
-
-  
-</div>
 
 ###
 
